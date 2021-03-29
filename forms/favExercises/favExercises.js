@@ -23,3 +23,7 @@ btnShow.onclick = function() {
     lblExercises.value = (`You did not pick the two core exercises.`)
   }
 }
+
+btnMobileNav.onclick = function() {
+  ChangeForm(mobileNav)
+}
